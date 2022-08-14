@@ -14,5 +14,3 @@ Additional Python packages need to be installed.
 After locating `pyProgramming_final_project` at the root of this project, type `python . /src/main.py` to run it.
 
 Note: At the time of writing this project, we have not yet studied database and soft engineering courses, so the software architecture is not quite standardized.
-
-Translated with www.DeepL.com/Translator (free version)
